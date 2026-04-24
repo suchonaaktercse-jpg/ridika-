@@ -1,0 +1,2 @@
+# ridika-
+event_management
